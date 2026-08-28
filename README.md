@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Adam Krayem! 👋
 
-<!--
-**AdamKrayem2007/AdamKrayem2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science & Artificial Intelligence Student**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 About Me
+- 🔭 Working on data analysis, machine learning algorithms, and software development.
+- 📚 Currently mastering Data Structures, OOP, and AI model integration.
+- 🛠️ Tech Stack: Python | pandas | NumPy | OpenPyXL | R | Swift | Git & GitHub
+- 🎯 Goal: Building end-to-end intelligent apps and data-driven solutions.
+
+---
+
+### 📊 Tech Stack & Tools
+- **Languages:** Python, Swift, R
+- **Data Science & AI:** pandas, NumPy, Data Analysis & Visualization
+- **Environments & Tools:** VS Code, Jupyter, Google Colab, Git
+
+---
+
+📫 **Connect with me:**
+[LinkedIn](https://www.linkedin.com/in/adam-krayem-038015410) | [Email](mailto:adamkrayem2007@gmail.com)
